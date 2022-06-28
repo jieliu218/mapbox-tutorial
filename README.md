@@ -2,6 +2,7 @@ Implement point-of-interest (POI) favouriting system based on Mapbox
 
 ## Read more
 Demo: https://mapbox.annacoding.com/
+
 https://annacoding.com/article/3g5PebInGXRRQkn8NK87fN/Implement-point-of-interest-(POI)-favouriting-system-based-on-Mapbox
 
 <img width="575" alt="image1" src="https://user-images.githubusercontent.com/3033810/176126597-492ce9cf-4666-4edd-a1f2-509ff9eef4ac.png">
